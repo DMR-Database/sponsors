@@ -6,17 +6,8 @@
 <h2 id="english">Thank you for supporting us...</h2>
 <br>
 <li>
-<a href="#comworld">Communicationwprld</a> - 
-<a href="#hamcall">Hamcall</a> - 
-<a href="#german">German</a> -
-<a href="#helpus">Mandarin Chinese</a> -
-<a href="#helpus">Hindi</a> -
-<a href="#helpus">Spanish</a> -
-<a href="#helpus">Arabic</a> -
-<a href="#helpus">Portuguese</a> -
-<a href="#helpus">Russian</a> -
-<a href="#helpus">Japanese</a> -
-<a href="#helpus">All others</a>
+<a href="#comworld">Communicationwprld</a><br>
+<a href="#hamcall">Hamcall</a><br>
 </li>
 <br>
 <hr>
