@@ -6,8 +6,15 @@
 <h2 id="english">Thank you for supporting us...</h2>
 <br>
 <li>
-<a href="#comworld">Communicationwprld</a><br>
+<a href="#comworld">Communicationwprld</a>
+</li>
+<br>
+<li>
 <a href="#hamcall">Hamcall</a><br>
+</li>
+<br>
+<li>
+<a href="#wimo">WiMo</a><br>
 </li>
 <br>
 <hr>
@@ -21,6 +28,7 @@ World leading World Wide HamCall Callsign Database.<br>
 <a href="https://hamcall.net/" target="_blank"><img src="img/BM-hamcall.png" width="360"></a>
 <br>
 <hr>
-<h1 id="helpus">Sorry we did not find your language</h1>
+<h2 id="wimo">WiMo</h2>
+World leading World Wide HamCall Callsign Database.<br>
+<a href="https://www.wimo.com/" target="_blank"><img src="img/BM-wimo.png" width="360"></a>
 <br>
-Your language here ? send us the text :) 
