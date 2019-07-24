@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
-<br>
 </p>
+<br>
 <hr>
 <h2 id="english">Thank you for supporting us...</h2>
 <br>
 <li>
 <a href="#comworld">Communicationwprld</a> - 
-<a href="#dutch">Dutch</a> - 
+<a href="#hamcall">World Wide HamCall Callsign Database</a> - 
 <a href="#german">German</a> -
 <a href="#helpus">Mandarin Chinese</a> -
 <a href="#helpus">Hindi</a> -
@@ -25,7 +25,7 @@
 <br>
 <br>
 <hr>
-<h2 id="german">Brandmeister user database für Ailunce, Anytone und Tytera</h2>
+<h2 id="hamcall">World Wide HamCall Callsign Database</h2>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database für Ailunce HD1</a>
 </li>
