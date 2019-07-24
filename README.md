@@ -7,15 +7,12 @@
 <li>
 <a href="#comworld">Communicationworld</a>
 </li>
-<br>
 <li>
 <a href="#hamcall">Hamcall</a><br>
 </li>
-<br>
 <li>
 <a href="#wimo">WiMo</a><br>
 </li>
-<br>
 <li>
 <a href="#yourname">Do you want to sponsor us ?</a><br>
 </li>
