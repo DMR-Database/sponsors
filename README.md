@@ -27,8 +27,13 @@ The Number One Ham Radio CB Shop <br>
 World leading World Wide HamCall Callsign Database.<br>
 <a href="https://hamcall.net/" target="_blank"><img src="img/BM-hamcall.png" width="360"></a>
 <br>
+HamCall.net is the Amateur Radio Division of Buckmaster International, LLC. See who is on the air right now world-wide with our DXSpots, look up their name, address, and QSL information with our HamCall Callsign Database, and get on the air and talk to the world with our Multi-band OCF Dipole Antennas!
+<br>
 <hr>
 <h2 id="wimo">WiMo</h2>
 World leading World Wide HamCall Callsign Database.<br>
 <a href="https://www.wimo.com/" target="_blank"><img src="img/BM-wimo.png" width="360"></a>
 <br>
+WiMo is a specialist dealer and manufacturer for HF radios systems, and antennas. Here you can find amateur radio rigs, accesories and antennas, WiFi antenna systems, ready made cables and components. Regardless whether your are enduser, dealer or OEM, whether in Germany or worldwirde - we are happy to serve you.
+<br>
+<hr>
