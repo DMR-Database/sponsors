@@ -1,25 +1,11 @@
 <p align="center">
-<a href="#english">English</a> - 
-<a href="#dutch">Dutch</a> - 
-<a href="#german">German</a> -
-<a href="#helpus">Mandarin Chinese</a> -
-<a href="#helpus">Hindi</a> -
-<a href="#helpus">Spanish</a> -
-<a href="#helpus">Arabic</a> -
-<a href="#helpus">Portuguese</a> -
-<a href="#helpus">Russian</a> -
-<a href="#helpus">Japanese</a> -
-<a href="#helpus">All others</a>
-<br>
-<hr>
-<p align="center">
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
 <br>
 <a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.jpg" width="360"></a>
 <br>
 </p>
 <hr>
-<h2 id="english">Brandmeister user database for Ailunce, Anytone and Tytera</h2>
+<h2 id="english">Thank you for supporting us...</h2>
 <li>
 <a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for Ailunce HD1</a>
 </li>
