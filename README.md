@@ -3,9 +3,9 @@
 </p>
 <br><br>
 <b>Thank you for supporting us (in random order)...</b>
-<br>
+<br><br>
 <li>
-<a href="#comworld">Communicationwprld</a>
+<a href="#comworld">Communicationworld</a>
 </li>
 <br>
 <li>
