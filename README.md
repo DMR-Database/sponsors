@@ -1,78 +1,14 @@
 <p align="center">
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
 <br>
-<a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.jpg" width="360"></a>
-<br>
 </p>
 <hr>
 <h2 id="english">Thank you for supporting us...</h2>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database for Ailunce HD1</a>
-</li>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database for Anytone</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database for Tytera MD380 & MD390</a>
-</li>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/usermd2017.csv">Database for Tytera MD-2017</a>
-</li>
-<br>
-For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
-<br><br>
-<b>Brandmeister database tools for Ailunce, Anytone and Tytera</b>
-<br><br>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/Ailunce-HD1-AdresTool-v2.00">Ailunce HD1 AdresTool v2.00</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/Anytone-AdresTool-v2.00">Anytone AdresTool v2.00</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/TyteraFlashTool-v2.00">TyteraFlashTool v2.00</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/UserDB-FlashTool-v2.00-mini">UserDB FlashTool v2.00 mini</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/Tytera-2017-UserDbTool-v2.00">Tytera-2017 UserDbTool v2.00</a>
-</li>
 <br>
 <hr>
-<h2 id="english">Brandmeister user database voor Ailunce, Anytone en Tytera</h2>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userhd.csv">Database voor Ailunce HD1</a>
-</li>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/userat.csv">Database voor Anytone</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database/raw/master/user.bin">Database voor Tytera MD380 & MD390</a>
-</li>
-<li>
-<a href="https://raw.githubusercontent.com/BM-Database/database/master/usermd2017.csv">Database voor Tytera MD-2017</a>
-</li>
-<br><br>
-Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
-<br><br>
-<b>Brandmeister database tools voor Ailunce, Anytone en Tytera</b>
-<br><br>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/Ailunce-HD1-AdresTool-v2.00">Ailunce HD1 AdresTool v2.00</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/Anytone-AdresTool-v2.00">Anytone AdresTool v2.00</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/TyteraFlashTool-v2.00">TyteraFlashTool v2.00</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/UserDB-FlashTool-v2.00-mini">UserDB FlashTool v2.00 mini</a>
-</li>
-<li>
-<a href="https://github.com/BM-Database/database-tools/wiki/Tytera-2017-UserDbTool-v2.00">Tytera-2017 UserDbTool v2.00</a>
-</li>
+<h2 id="comworld">Communicationworld</h2>
+<a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.jpg" width="360"></a>
+<br>
 <br>
 <hr>
 <h2 id="german">Brandmeister user database für Ailunce, Anytone und Tytera</h2>
