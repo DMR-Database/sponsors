@@ -16,6 +16,10 @@
 <a href="#wimo">WiMo</a><br>
 </li>
 <br>
+<li>
+<a href="#yourname">Do you want to sponsor us ?</a><br>
+</li>
+<br>
 <hr>
 <h2 id="comworld">Communicationworld</h2>
 The Number One Ham Radio CB Shop <br>
@@ -39,3 +43,7 @@ Two way Radios, antennas for GSM, 3G, LTE Wifi, coaxial cable - everything you n
 WiMo is a specialist dealer and manufacturer for HF radios systems, and antennas. Here you can find amateur radio rigs, accesories and antennas, WiFi antenna systems, ready made cables and components. Regardless whether your are enduser, dealer or OEM, whether in Germany or worldwirde - we are happy to serve you.
 <br>
 <hr>
+<h2 id="yourname">So you want to sponsor us :) </h2>
+We love hamradios, gadgets, etc etc tell us what you can sponsor us :)<br>
+Contact pd2emc at outlook dot com<br>
+<br>
