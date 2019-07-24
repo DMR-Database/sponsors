@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif"></a>
+<a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
 </p>
-<br>
+<br><br>
 <b>Thank you for supporting us (in random order)...</b>
 <br>
 <li>
