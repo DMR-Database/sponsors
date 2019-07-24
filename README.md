@@ -31,7 +31,7 @@ HamCall.net is the Amateur Radio Division of Buckmaster International, LLC. See 
 <br>
 <hr>
 <h2 id="wimo">WiMo</h2>
-World leading World Wide HamCall Callsign Database.<br>
+Two way Radios, antennas for GSM, 3G, LTE Wifi, coaxial cable - everything you need for professional radios.<br>
 <a href="https://www.wimo.com/" target="_blank"><img src="img/BM-wimo.png" width="360"></a>
 <br>
 WiMo is a specialist dealer and manufacturer for HF radios systems, and antennas. Here you can find amateur radio rigs, accesories and antennas, WiFi antenna systems, ready made cables and components. Regardless whether your are enduser, dealer or OEM, whether in Germany or worldwirde - we are happy to serve you.
