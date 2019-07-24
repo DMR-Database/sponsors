@@ -2,7 +2,6 @@
 <a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
 </p>
 <br>
-<hr>
 <h2 id="english">Thank you for supporting us...</h2>
 <br>
 <li>
@@ -20,10 +19,10 @@
 <hr>
 <h2 id="comworld">Communicationworld</h2>
 The Number One Ham Radio CB Shop <br>
-<a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.png" width="360"></a>
+<a href="https://www.communicationworld.nl" target="_blank"><img src="img/BM-comworld.png"></a>
 <br>
 Bij ons vind u een groot assortiment aan communicatieapparatuur en aanverwante artikelen, van 27 MHz bakjes tot zend en ontvangstapparatuur voor luchtvaart, landmobiel en Maritiem, maar ook Licentievrije portofoons en licentie houdende portofoons. 
-Uiteraard ontbreekt bij ons de HAM apparatuur zeker niet
+Uiteraard ontbreekt bij ons de HAM apparatuur zeker niet.
 <br>
 <hr>
 <h2 id="hamcall">Hamcall</h2>
