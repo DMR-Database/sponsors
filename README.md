@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif" width="360"></a>
+<a href="https://github.com/BM-Database" target="_blank"><img src="img/BM-logo2.gif"></a>
 </p>
 <br>
-<h2 id="english">Thank you for supporting us (in random order)...</h2>
+<b>Thank you for supporting us (in random order)...</b>
 <br>
 <li>
 <a href="#comworld">Communicationwprld</a>
