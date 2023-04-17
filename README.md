@@ -1,5 +1,5 @@
 <br>
-<b>We have no sponsors, everything is paid out of our own pocket (servers,power etc)...</b>
+<b>We have no sponsors !!! , everything is paid out of our own pocket (servers,power etc)...</b>
 <br><br>
 <li>
 <a href="#yourname">Do you want to sponsor us ?</a><br>
