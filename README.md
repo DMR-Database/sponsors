@@ -6,6 +6,6 @@
 </li>
 <br>
 <h2 id="yourname">So you want to sponsor us :) </h2>
-We love hamradios, gadgets, etc etc tell us what you can sponsor us :)<br>
+We love HP T620, hamradios, gadgets, etc etc tell us what you can sponsor us :)<br>
 Contact pd2emc at outlook dot com<br>
 <br>
